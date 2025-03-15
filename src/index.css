@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+.box{
+    img{
+      @apply  w-[35px] h-[35px]
+    }
+}
+@tailwind utilities;
+
